@@ -1,2 +1,2 @@
 # competitiveprog
-ccode of a few good questions 
+c++ code of a few good questions 
