@@ -36,14 +36,7 @@ int findMaxSquareWithAllZeros(int **arr, int row, int col)
     }
 
     delete b;
-    // for (int i = 0; i <= n; i++)
-    // {
-    //     for (int j = 0; j <= m; j++)
-    //     {
-    //         cout << b[i][j] << " ";
-    //     }
-    //     cout << endl;
-    // }
+
     return max_sum;
 }
 
